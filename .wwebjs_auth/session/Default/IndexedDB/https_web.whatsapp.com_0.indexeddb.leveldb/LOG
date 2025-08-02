@@ -1,0 +1,38 @@
+2025/08/02-00:35:49.267 78a33 Reusing MANIFEST /Users/sam/Desktop/WhatApp-bot-Agape/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/02-00:35:49.268 78a33 Recovering log #698
+2025/08/02-00:35:49.289 78a33 Reusing old log /Users/sam/Desktop/WhatApp-bot-Agape/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000698.log 
+2025/08/02-00:35:50.453 78a33 Level-0 table #714: started
+2025/08/02-00:35:50.464 78a33 Level-0 table #714: 720144 bytes OK
+2025/08/02-00:35:50.465 78a33 Delete type=0 #698
+2025/08/02-00:35:50.466 78a33 Manual compaction at level-0 from '\x00B\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at '\x00B\x00\x00\x05' @ 2418786 : 1
+2025/08/02-00:35:50.466 78a33 Compacting 1@0 + 1@1 files
+2025/08/02-00:35:50.474 78a33 Generated table #715@0: 17186 keys, 324678 bytes
+2025/08/02-00:35:50.480 78a33 Generated table #716@0: 10610 keys, 212556 bytes
+2025/08/02-00:35:50.480 78a33 Compacted 1@0 + 1@1 files => 537234 bytes
+2025/08/02-00:35:50.481 78a33 compacted to: files[ 0 2 17 0 0 0 0 ]
+2025/08/02-00:35:50.481 78a33 Delete type=2 #714
+2025/08/02-00:35:50.481 78a33 Manual compaction at level-0 from '\x00B\x00\x00\x05' @ 2418786 : 1 .. '\x00C\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/02-00:35:50.974 78a33 Compacting 1@1 + 9@2 files
+2025/08/02-00:35:51.002 78a33 Generated table #717@1: 55707 keys, 2221889 bytes
+2025/08/02-00:35:51.018 78a33 Generated table #718@1: 15815 keys, 2168858 bytes
+2025/08/02-00:35:51.027 78a33 Generated table #719@1: 2341 keys, 2158686 bytes
+2025/08/02-00:35:51.036 78a33 Generated table #720@1: 2630 keys, 2157063 bytes
+2025/08/02-00:35:51.046 78a33 Generated table #721@1: 3311 keys, 2151585 bytes
+2025/08/02-00:35:51.062 78a33 Generated table #722@1: 18210 keys, 2191985 bytes
+2025/08/02-00:35:51.085 78a33 Generated table #723@1: 29886 keys, 2267023 bytes
+2025/08/02-00:35:51.107 78a33 Generated table #724@1: 27208 keys, 2269148 bytes
+2025/08/02-00:35:51.119 78a33 Generated table #725@1: 9504 keys, 2142371 bytes
+2025/08/02-00:35:51.120 78a33 Generated table #726@1: 92 keys, 49314 bytes
+2025/08/02-00:35:51.120 78a33 Compacted 1@1 + 9@2 files => 19777922 bytes
+2025/08/02-00:35:51.121 78a33 compacted to: files[ 0 1 18 0 0 0 0 ]
+2025/08/02-00:35:51.121 78a33 Delete type=2 #710
+2025/08/02-00:35:51.121 78a33 Delete type=2 #704
+2025/08/02-00:35:51.121 78a33 Delete type=2 #705
+2025/08/02-00:35:51.121 78a33 Delete type=2 #707
+2025/08/02-00:35:51.121 78a33 Delete type=2 #706
+2025/08/02-00:35:51.121 78a33 Delete type=2 #702
+2025/08/02-00:35:51.121 78a33 Delete type=2 #703
+2025/08/02-00:35:51.121 78a33 Delete type=2 #715
+2025/08/02-00:35:51.121 78a33 Delete type=2 #701
+2025/08/02-00:35:51.121 78a33 Delete type=2 #708
+2025/08/02-00:35:51.121 78a33 Delete type=2 #709

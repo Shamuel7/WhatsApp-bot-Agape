@@ -1,0 +1,21 @@
+{
+  "name": "whatapp-bot-agape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^154.1.0",
+    "mongoose": "^8.17.0",
+    "node-schedule": "^2.1.1",
+    "puppeteer": "^22.8.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.31.0",
+    "wwebjs-mongo": "^1.1.0"
+  }
+}

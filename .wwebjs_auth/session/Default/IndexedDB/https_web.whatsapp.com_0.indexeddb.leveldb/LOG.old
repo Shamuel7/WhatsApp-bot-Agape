@@ -1,0 +1,4 @@
+2025/08/02-00:33:15.242 77f9b Reusing MANIFEST /Users/sam/Desktop/WhatApp-bot-Agape/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/02-00:33:15.242 77f9b Recovering log #698
+2025/08/02-00:33:15.246 77f9b Reusing old log /Users/sam/Desktop/WhatApp-bot-Agape/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000698.log 
+2025/08/02-00:33:16.271 77fa8 Manual compaction at level-0 from '\x00A\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00B\x00\x00\x00' @ 0 : 0; will stop at (end)
